@@ -1,1 +1,13 @@
-// add your Reference Opacity code here
+size(500,400);
+
+
+fill(0,255,0,127);
+strokeWeight(10);
+ellipse(300,150,30,80);
+ellipse(150,150,30,80);
+fill(255,0,0,127);
+rect(250,250,150,70);
+fill(0,0,255,127);
+rect(250,250,90,170);
+triangle(200,100,100,50,150,250);
+ellipse(150,150,150,150);
